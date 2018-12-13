@@ -25,4 +25,4 @@ echo "#-----------------------------#"
 echo "|         npm Packages        |"
 echo "#-----------------------------#"
 npm list -g --depth=0
-sudo apt-get install -y mongodb-org
+# sudo apt-get install -y mongodb-org
